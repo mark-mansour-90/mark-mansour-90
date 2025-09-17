@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mark-mansour-90
 - 👀 I’m specialized in React JS & PHP
-- 📫 How to reach me mark.mansour@edu2x.com
+- 📫 How to reach me memarkemil@gmail.com
 
 <!---
 mark-mansour-90/mark-mansour-90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
