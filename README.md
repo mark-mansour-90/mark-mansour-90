@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mark-mansour-90
-- 👀 I’m specialized in React JS & PHP
+- 👀 I’m a senior software engineer specialized in fullstack web development 
 - 📫 How to reach me memarkemil@gmail.com
 
 <!---
