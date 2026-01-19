@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mark-mansour-90
-- 👀 I’m a senior software engineer specialized in fullstack web development 
+- 👀 I’m a senior software engineer specialized in full-stack web development 
 - 📫 How to reach me memarkemil@gmail.com
 
 <!---
